@@ -1,0 +1,42 @@
+VS CODE setup
+
+One Drack Pro
+Auto Close tag
+Auto Rename Tag
+Javascript 
+Html
+Css
+Bootstrap
+React js
+Node js
+MongoDB
+React Native
+MY Qual
+Simple React Snippets
+Simple mongoDB Snippets
+Simple Node js Snippets
+ES7 React/Redux/GraphQl/React
+Code Spell Checker
+ESLint
+Prettier - code formatter
+Code Spell Checker
+vscode icons
+Bracker pair Colorizer
+Wordpress snippets
+Thunder client 
+thrme
+simple react snippets
+react bootstrap snippets
+react js code snippets
+react native tools
+project manager
+prettir - code
+path intellisen
+one darik pro
+mongoDB
+mongoDB for vs code 
+mongo snipperts
+MERN sniperts
+lorem ifsum
+material icon
+live server

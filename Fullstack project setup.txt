@@ -1,0 +1,24 @@
+https://demo.woostify.com/watch/
+https://demo.woostify.com/freshio/
+
+
+---------------------------------
+yarn init --y
+touch index.js
+yarn create react-app clint
+yarn add concurrently
+yarn add nodemon
+yarn add body-parser
+yarn add morgan
+yarn add cors
+yarn add mongoose
+yarn add passport
+yarn add passport-jwt
+yarn add dotenv
+
+
+
+--------------------------------
+controllers
+model
+routers

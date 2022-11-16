@@ -1,24 +1,45 @@
 https://demo.woostify.com/watch/
 https://demo.woostify.com/freshio/
 
+local host string
+mongodb://127.0.0.1:27017/
 
----------------------------------
+-----------------------------------
+		Api
+-----------------------------------
 yarn init --y
 touch index.js
-yarn create react-app clint
 yarn add concurrently
 yarn add nodemon
 yarn add body-parser
-yarn add morgan
 yarn add cors
 yarn add mongoose
 yarn add passport
 yarn add passport-jwt
-yarn add dotenv
+yarn add -D dotenv
+yarn add -D morgan
+yarn add validator
+yarn add bcrypt
+yarn add multer
+yarn add helmet
+
+-----------------------------------
+	      client
+-----------------------------------
+yarn create react-app client
 
 
 
---------------------------------
+
+-----------------------------------
+	      Routes
+-----------------------------------
 controllers
 model
 routers
+--------------------------------------
+
+ "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix clint",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
